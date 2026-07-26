@@ -102,12 +102,12 @@ Questions, feedback, or just want to say hi?
 
 ---
 
+---
+
 <div align="center">
 
-<sub>Made with 💗</sub>
+## Made with 💗
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/PyAaditya-6b4a63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyAaditya)
+<a href="https://github.com/PyAaditya"><img src="https://img.shields.io/badge/PyAaditya-6b4a63?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
